@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "berezinant",
   "dependencies": {
-    "node-telegram-bot-api": "^0.61.0"
+    "node-telegram-bot-api": "^0.66.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
